@@ -1,6 +1,7 @@
 a
 b
-X
+why are multiple branch/of/branches showing up in tortoise? Because it lists it like "remote-branch/local-branch"
+Stash test
 d
 e
 f
